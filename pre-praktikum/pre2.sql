@@ -1,5 +1,5 @@
--- nama : irsyad hakki
--- nim :23241004
+-- nama : khairi suryana rafiqi
+-- nim :23241005
 -- kelas: A
 
 -- Untuk melihat databases di mysql
